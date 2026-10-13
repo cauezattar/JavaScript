@@ -1,0 +1,8 @@
+/*
+44. (Verdadeiro ou Falso) O uso de let dentro do for (ex: for (let i = 0...)) garante que a variável i só exista dentro daquele laço.
+*/
+
+/*
+( ) Verdadeiro
+( ) Falso
+*/
